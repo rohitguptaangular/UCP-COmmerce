@@ -1,0 +1,1002 @@
+[
+  {
+    "code": "NEST-001",
+    "name": "Nescafe Classic Instant Coffee 200g",
+    "description": "Rich and aromatic instant coffee made from carefully selected beans",
+    "price": 8.99,
+    "currency": "USD",
+    "stock": 500,
+    "imageUrl": "https://nestle.com/images/nescafe-classic-200g.jpg",
+    "category": "Coffee"
+  },
+  {
+    "code": "NEST-002",
+    "name": "Nescafe Gold Blend 100g",
+    "description": "Premium freeze-dried instant coffee with a smooth, refined taste",
+    "price": 9.49,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/nescafe-gold-100g.jpg",
+    "category": "Coffee"
+  },
+  {
+    "code": "NEST-003",
+    "name": "Nescafe Dolce Gusto Cappuccino Pods 16pk",
+    "description": "Coffee capsules for Dolce Gusto machines, creamy cappuccino flavor",
+    "price": 12.99,
+    "currency": "USD",
+    "stock": 300,
+    "imageUrl": "https://nestle.com/images/dolce-gusto-cappuccino.jpg",
+    "category": "Coffee"
+  },
+  {
+    "code": "NEST-004",
+    "name": "Nescafe Dolce Gusto Latte Macchiato Pods 16pk",
+    "description": "Layered latte macchiato pods with rich espresso and frothy milk",
+    "price": 13.49,
+    "currency": "USD",
+    "stock": 250,
+    "imageUrl": "https://nestle.com/images/dolce-gusto-latte.jpg",
+    "category": "Coffee"
+  },
+  {
+    "code": "NEST-005",
+    "name": "Nespresso Original Ristretto Capsules 10pk",
+    "description": "Intense and full-bodied espresso capsules for Nespresso Original machines",
+    "price": 7.99,
+    "currency": "USD",
+    "stock": 600,
+    "imageUrl": "https://nestle.com/images/nespresso-ristretto.jpg",
+    "category": "Coffee"
+  },
+  {
+    "code": "NEST-006",
+    "name": "Nespresso Vertuo Mug Size Capsules 10pk",
+    "description": "Smooth and balanced large-cup coffee for Nespresso Vertuo machines",
+    "price": 10.99,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/nespresso-vertuo-mug.jpg",
+    "category": "Coffee"
+  },
+  {
+    "code": "NEST-007",
+    "name": "Nescafe 3-in-1 Original Sachets 30pk",
+    "description": "Convenient coffee mix with creamer and sugar in single-serve sachets",
+    "price": 11.99,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/nescafe-3in1.jpg",
+    "category": "Coffee"
+  },
+  {
+    "code": "NEST-008",
+    "name": "KitKat 4 Finger Milk Chocolate 41.5g",
+    "description": "Crispy wafer fingers covered in smooth milk chocolate",
+    "price": 1.49,
+    "currency": "USD",
+    "stock": 1000,
+    "imageUrl": "https://nestle.com/images/kitkat-4finger.jpg",
+    "category": "Chocolate & Confectionery"
+  },
+  {
+    "code": "NEST-009",
+    "name": "KitKat Chunky 40g",
+    "description": "Thick and chunky wafer bar with generous milk chocolate coating",
+    "price": 1.79,
+    "currency": "USD",
+    "stock": 800,
+    "imageUrl": "https://nestle.com/images/kitkat-chunky.jpg",
+    "category": "Chocolate & Confectionery"
+  },
+  {
+    "code": "NEST-010",
+    "name": "KitKat Dark Chocolate 4 Finger 41.5g",
+    "description": "Crispy wafer fingers coated in rich 70% dark chocolate",
+    "price": 1.69,
+    "currency": "USD",
+    "stock": 600,
+    "imageUrl": "https://nestle.com/images/kitkat-dark.jpg",
+    "category": "Chocolate & Confectionery"
+  },
+  {
+    "code": "NEST-011",
+    "name": "KitKat Variety Pack 18 Bars",
+    "description": "Assorted KitKat flavors including milk, dark, and white chocolate",
+    "price": 14.99,
+    "currency": "USD",
+    "stock": 200,
+    "imageUrl": "https://nestle.com/images/kitkat-variety.jpg",
+    "category": "Chocolate & Confectionery"
+  },
+  {
+    "code": "NEST-012",
+    "name": "Nestle Toll House Chocolate Chip Morsels 340g",
+    "description": "Semi-sweet chocolate chips perfect for baking cookies and desserts",
+    "price": 4.49,
+    "currency": "USD",
+    "stock": 450,
+    "imageUrl": "https://nestle.com/images/tollhouse-morsels.jpg",
+    "category": "Baking"
+  },
+  {
+    "code": "NEST-013",
+    "name": "Smarties Milk Chocolate Tube 38g",
+    "description": "Colorful candy-coated milk chocolate drops loved by kids",
+    "price": 1.29,
+    "currency": "USD",
+    "stock": 900,
+    "imageUrl": "https://nestle.com/images/smarties-tube.jpg",
+    "category": "Chocolate & Confectionery"
+  },
+  {
+    "code": "NEST-014",
+    "name": "Aero Peppermint Chocolate Bar 36g",
+    "description": "Bubbly textured milk chocolate with cool peppermint center",
+    "price": 1.59,
+    "currency": "USD",
+    "stock": 700,
+    "imageUrl": "https://nestle.com/images/aero-peppermint.jpg",
+    "category": "Chocolate & Confectionery"
+  },
+  {
+    "code": "NEST-015",
+    "name": "Quality Street Tin 900g",
+    "description": "Classic assortment of individually wrapped chocolates and toffees",
+    "price": 16.99,
+    "currency": "USD",
+    "stock": 150,
+    "imageUrl": "https://nestle.com/images/quality-street-tin.jpg",
+    "category": "Chocolate & Confectionery"
+  },
+  {
+    "code": "NEST-016",
+    "name": "After Eight Thin Mints 200g",
+    "description": "Elegant dark chocolate squares with a creamy peppermint filling",
+    "price": 5.99,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/after-eight.jpg",
+    "category": "Chocolate & Confectionery"
+  },
+  {
+    "code": "NEST-017",
+    "name": "Nestle Crunch Bar 44g",
+    "description": "Crispy puffed rice in smooth milk chocolate",
+    "price": 1.39,
+    "currency": "USD",
+    "stock": 750,
+    "imageUrl": "https://nestle.com/images/crunch-bar.jpg",
+    "category": "Chocolate & Confectionery"
+  },
+  {
+    "code": "NEST-018",
+    "name": "Butterfinger Bar 53g",
+    "description": "Crispy peanut butter core coated in chocolatey coating",
+    "price": 1.89,
+    "currency": "USD",
+    "stock": 650,
+    "imageUrl": "https://nestle.com/images/butterfinger.jpg",
+    "category": "Chocolate & Confectionery"
+  },
+  {
+    "code": "NEST-019",
+    "name": "Nesquik Chocolate Milk Powder 400g",
+    "description": "Instant chocolate flavored drink mix enriched with vitamins",
+    "price": 5.49,
+    "currency": "USD",
+    "stock": 500,
+    "imageUrl": "https://nestle.com/images/nesquik-choc-400g.jpg",
+    "category": "Beverages"
+  },
+  {
+    "code": "NEST-020",
+    "name": "Nesquik Strawberry Milk Powder 400g",
+    "description": "Strawberry flavored instant drink mix with added calcium and vitamins",
+    "price": 5.49,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/nesquik-strawberry.jpg",
+    "category": "Beverages"
+  },
+  {
+    "code": "NEST-021",
+    "name": "Milo Active-Go Chocolate Malt 400g",
+    "description": "Energy drink powder with malt, cocoa, and essential vitamins",
+    "price": 7.99,
+    "currency": "USD",
+    "stock": 450,
+    "imageUrl": "https://nestle.com/images/milo-400g.jpg",
+    "category": "Beverages"
+  },
+  {
+    "code": "NEST-022",
+    "name": "Nestle Hot Cocoa Mix Rich Chocolate 10 Envelopes",
+    "description": "Rich and creamy hot chocolate mix in convenient single-serve packets",
+    "price": 4.99,
+    "currency": "USD",
+    "stock": 550,
+    "imageUrl": "https://nestle.com/images/hot-cocoa-mix.jpg",
+    "category": "Beverages"
+  },
+  {
+    "code": "NEST-023",
+    "name": "Maggi 2-Minute Noodles Masala 70g (Pack of 12)",
+    "description": "Instant noodles with signature masala flavor and tastemaker sachet",
+    "price": 6.99,
+    "currency": "USD",
+    "stock": 600,
+    "imageUrl": "https://nestle.com/images/maggi-masala-12pk.jpg",
+    "category": "Noodles & Cooking"
+  },
+  {
+    "code": "NEST-024",
+    "name": "Maggi 2-Minute Noodles Chicken 70g (Pack of 12)",
+    "description": "Quick-cooking noodles with savory chicken flavor seasoning",
+    "price": 6.99,
+    "currency": "USD",
+    "stock": 500,
+    "imageUrl": "https://nestle.com/images/maggi-chicken-12pk.jpg",
+    "category": "Noodles & Cooking"
+  },
+  {
+    "code": "NEST-025",
+    "name": "Maggi Seasoning Sauce 800ml",
+    "description": "All-purpose liquid seasoning to enhance flavor of any dish",
+    "price": 4.49,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/maggi-seasoning.jpg",
+    "category": "Noodles & Cooking"
+  },
+  {
+    "code": "NEST-026",
+    "name": "Maggi Chicken Stock Cubes 24pk",
+    "description": "Rich chicken bouillon cubes for soups, stews, and gravies",
+    "price": 3.49,
+    "currency": "USD",
+    "stock": 700,
+    "imageUrl": "https://nestle.com/images/maggi-chicken-stock.jpg",
+    "category": "Noodles & Cooking"
+  },
+  {
+    "code": "NEST-027",
+    "name": "Maggi Vegetable Stock Cubes 24pk",
+    "description": "Flavorful vegetable bouillon cubes for vegetarian cooking",
+    "price": 3.49,
+    "currency": "USD",
+    "stock": 600,
+    "imageUrl": "https://nestle.com/images/maggi-veg-stock.jpg",
+    "category": "Noodles & Cooking"
+  },
+  {
+    "code": "NEST-028",
+    "name": "Maggi Cup Noodles Spicy Shrimp 60g (Pack of 6)",
+    "description": "Instant cup noodles with spicy shrimp flavor, just add hot water",
+    "price": 8.49,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/maggi-cup-shrimp.jpg",
+    "category": "Noodles & Cooking"
+  },
+  {
+    "code": "NEST-029",
+    "name": "Nestle Carnation Evaporated Milk 354ml",
+    "description": "Rich and creamy evaporated milk for cooking and desserts",
+    "price": 2.49,
+    "currency": "USD",
+    "stock": 500,
+    "imageUrl": "https://nestle.com/images/carnation-evap.jpg",
+    "category": "Dairy & Creamers"
+  },
+  {
+    "code": "NEST-030",
+    "name": "Nestle Carnation Sweetened Condensed Milk 397g",
+    "description": "Thick and sweet condensed milk for baking and desserts",
+    "price": 3.29,
+    "currency": "USD",
+    "stock": 450,
+    "imageUrl": "https://nestle.com/images/carnation-condensed.jpg",
+    "category": "Dairy & Creamers"
+  },
+  {
+    "code": "NEST-031",
+    "name": "Coffee-Mate Original Powder Creamer 450g",
+    "description": "Non-dairy powder creamer for a rich and smooth coffee experience",
+    "price": 6.99,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/coffeemate-original.jpg",
+    "category": "Dairy & Creamers"
+  },
+  {
+    "code": "NEST-032",
+    "name": "Coffee-Mate French Vanilla Liquid Creamer 946ml",
+    "description": "Creamy French vanilla flavored liquid coffee creamer",
+    "price": 5.49,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/coffeemate-vanilla.jpg",
+    "category": "Dairy & Creamers"
+  },
+  {
+    "code": "NEST-033",
+    "name": "Coffee-Mate Hazelnut Liquid Creamer 946ml",
+    "description": "Smooth hazelnut flavored liquid coffee creamer",
+    "price": 5.49,
+    "currency": "USD",
+    "stock": 300,
+    "imageUrl": "https://nestle.com/images/coffeemate-hazelnut.jpg",
+    "category": "Dairy & Creamers"
+  },
+  {
+    "code": "NEST-034",
+    "name": "Nestle La Lechera Sweetened Condensed Milk Squeeze 325g",
+    "description": "Easy-squeeze bottle of rich sweetened condensed milk",
+    "price": 3.99,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/la-lechera.jpg",
+    "category": "Dairy & Creamers"
+  },
+  {
+    "code": "NEST-035",
+    "name": "Haagen-Dazs Vanilla Bean Ice Cream 473ml",
+    "description": "Premium ice cream made with real Madagascar vanilla beans",
+    "price": 6.99,
+    "currency": "USD",
+    "stock": 200,
+    "imageUrl": "https://nestle.com/images/haagen-dazs-vanilla.jpg",
+    "category": "Ice Cream & Frozen"
+  },
+  {
+    "code": "NEST-036",
+    "name": "Haagen-Dazs Belgian Chocolate Ice Cream 473ml",
+    "description": "Intensely rich chocolate ice cream made with Belgian chocolate",
+    "price": 6.99,
+    "currency": "USD",
+    "stock": 180,
+    "imageUrl": "https://nestle.com/images/haagen-dazs-chocolate.jpg",
+    "category": "Ice Cream & Frozen"
+  },
+  {
+    "code": "NEST-037",
+    "name": "Haagen-Dazs Strawberries & Cream Ice Cream 473ml",
+    "description": "Creamy vanilla ice cream swirled with real strawberry pieces",
+    "price": 6.99,
+    "currency": "USD",
+    "stock": 160,
+    "imageUrl": "https://nestle.com/images/haagen-dazs-strawberry.jpg",
+    "category": "Ice Cream & Frozen"
+  },
+  {
+    "code": "NEST-038",
+    "name": "Dreyer's/Edy's Vanilla Ice Cream 1.5L",
+    "description": "Classic slow-churned vanilla ice cream, rich and creamy",
+    "price": 5.99,
+    "currency": "USD",
+    "stock": 250,
+    "imageUrl": "https://nestle.com/images/dreyers-vanilla.jpg",
+    "category": "Ice Cream & Frozen"
+  },
+  {
+    "code": "NEST-039",
+    "name": "Drumstick Classic Vanilla Cones 8pk",
+    "description": "Crispy waffle cones with vanilla ice cream, fudge, and peanuts",
+    "price": 7.99,
+    "currency": "USD",
+    "stock": 300,
+    "imageUrl": "https://nestle.com/images/drumstick-vanilla.jpg",
+    "category": "Ice Cream & Frozen"
+  },
+  {
+    "code": "NEST-040",
+    "name": "Nestle Outshine Fruit Bars Variety 12pk",
+    "description": "Real fruit frozen bars in strawberry, lime, and tangerine flavors",
+    "price": 6.49,
+    "currency": "USD",
+    "stock": 280,
+    "imageUrl": "https://nestle.com/images/outshine-variety.jpg",
+    "category": "Ice Cream & Frozen"
+  },
+  {
+    "code": "NEST-041",
+    "name": "Stouffer's Lasagna with Meat Sauce 964g",
+    "description": "Classic frozen lasagna layered with meat sauce, pasta, and cheese",
+    "price": 9.99,
+    "currency": "USD",
+    "stock": 200,
+    "imageUrl": "https://nestle.com/images/stouffers-lasagna.jpg",
+    "category": "Frozen Meals"
+  },
+  {
+    "code": "NEST-042",
+    "name": "Stouffer's Mac & Cheese 340g",
+    "description": "Creamy baked macaroni and cheese made with real cheddar",
+    "price": 4.49,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/stouffers-mac-cheese.jpg",
+    "category": "Frozen Meals"
+  },
+  {
+    "code": "NEST-043",
+    "name": "Lean Cuisine Chicken Alfredo 283g",
+    "description": "Light and flavorful chicken with alfredo sauce and fettuccine",
+    "price": 3.99,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/lean-cuisine-alfredo.jpg",
+    "category": "Frozen Meals"
+  },
+  {
+    "code": "NEST-044",
+    "name": "Lean Cuisine Sesame Chicken 255g",
+    "description": "Asian-inspired sesame chicken with rice and vegetables",
+    "price": 3.99,
+    "currency": "USD",
+    "stock": 380,
+    "imageUrl": "https://nestle.com/images/lean-cuisine-sesame.jpg",
+    "category": "Frozen Meals"
+  },
+  {
+    "code": "NEST-045",
+    "name": "Hot Pockets Pepperoni Pizza 2pk",
+    "description": "Crispy crust stuffed with pepperoni, mozzarella, and pizza sauce",
+    "price": 3.49,
+    "currency": "USD",
+    "stock": 500,
+    "imageUrl": "https://nestle.com/images/hotpockets-pepperoni.jpg",
+    "category": "Frozen Meals"
+  },
+  {
+    "code": "NEST-046",
+    "name": "Hot Pockets Ham & Cheese 2pk",
+    "description": "Flaky crust pockets filled with ham and melted cheddar cheese",
+    "price": 3.49,
+    "currency": "USD",
+    "stock": 450,
+    "imageUrl": "https://nestle.com/images/hotpockets-ham.jpg",
+    "category": "Frozen Meals"
+  },
+  {
+    "code": "NEST-047",
+    "name": "DiGiorno Rising Crust Pepperoni Pizza 793g",
+    "description": "Self-rising crust frozen pizza with pepperoni and mozzarella",
+    "price": 8.49,
+    "currency": "USD",
+    "stock": 250,
+    "imageUrl": "https://nestle.com/images/digiorno-pepperoni.jpg",
+    "category": "Frozen Meals"
+  },
+  {
+    "code": "NEST-048",
+    "name": "DiGiorno Stuffed Crust Supreme Pizza 857g",
+    "description": "Cheese-stuffed crust pizza loaded with meats and vegetables",
+    "price": 9.49,
+    "currency": "USD",
+    "stock": 200,
+    "imageUrl": "https://nestle.com/images/digiorno-supreme.jpg",
+    "category": "Frozen Meals"
+  },
+  {
+    "code": "NEST-049",
+    "name": "Nestle Toll House Cookie Dough Tub 1.02kg",
+    "description": "Ready-to-bake chocolate chip cookie dough, makes 36 cookies",
+    "price": 7.99,
+    "currency": "USD",
+    "stock": 300,
+    "imageUrl": "https://nestle.com/images/tollhouse-dough-tub.jpg",
+    "category": "Baking"
+  },
+  {
+    "code": "NEST-050",
+    "name": "Nestle Toll House White Chocolate Morsels 340g",
+    "description": "Premium white chocolate chips for baking and decorating",
+    "price": 4.79,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/tollhouse-white.jpg",
+    "category": "Baking"
+  },
+  {
+    "code": "NEST-051",
+    "name": "Nestle Toll House Dark Chocolate Morsels 283g",
+    "description": "Rich dark chocolate chips with 53% cacao for intense flavor",
+    "price": 4.49,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/tollhouse-dark.jpg",
+    "category": "Baking"
+  },
+  {
+    "code": "NEST-052",
+    "name": "Nestle Toll House Cocoa Powder 226g",
+    "description": "100% pure unsweetened cocoa powder for baking and beverages",
+    "price": 5.99,
+    "currency": "USD",
+    "stock": 300,
+    "imageUrl": "https://nestle.com/images/tollhouse-cocoa.jpg",
+    "category": "Baking"
+  },
+  {
+    "code": "NEST-053",
+    "name": "Perrier Sparkling Natural Mineral Water 330ml (Pack of 24)",
+    "description": "Iconic French sparkling mineral water with fine, persistent bubbles",
+    "price": 19.99,
+    "currency": "USD",
+    "stock": 200,
+    "imageUrl": "https://nestle.com/images/perrier-24pk.jpg",
+    "category": "Water & Beverages"
+  },
+  {
+    "code": "NEST-054",
+    "name": "Perrier Lime Sparkling Water 250ml (Pack of 10)",
+    "description": "Refreshing lime-flavored sparkling mineral water",
+    "price": 8.99,
+    "currency": "USD",
+    "stock": 300,
+    "imageUrl": "https://nestle.com/images/perrier-lime.jpg",
+    "category": "Water & Beverages"
+  },
+  {
+    "code": "NEST-055",
+    "name": "S.Pellegrino Sparkling Water 750ml (Pack of 12)",
+    "description": "Italian sparkling natural mineral water, perfect with fine dining",
+    "price": 22.99,
+    "currency": "USD",
+    "stock": 180,
+    "imageUrl": "https://nestle.com/images/spellegrino-12pk.jpg",
+    "category": "Water & Beverages"
+  },
+  {
+    "code": "NEST-056",
+    "name": "S.Pellegrino Essenza Lemon & Zest 330ml (Pack of 8)",
+    "description": "Sparkling natural mineral water with lemon and lemon zest flavor",
+    "price": 9.99,
+    "currency": "USD",
+    "stock": 250,
+    "imageUrl": "https://nestle.com/images/spellegrino-lemon.jpg",
+    "category": "Water & Beverages"
+  },
+  {
+    "code": "NEST-057",
+    "name": "Nestle Pure Life Still Water 500ml (Pack of 24)",
+    "description": "Purified drinking water enhanced with minerals for a clean taste",
+    "price": 5.99,
+    "currency": "USD",
+    "stock": 500,
+    "imageUrl": "https://nestle.com/images/purelife-24pk.jpg",
+    "category": "Water & Beverages"
+  },
+  {
+    "code": "NEST-058",
+    "name": "Poland Spring Water 500ml (Pack of 24)",
+    "description": "Natural spring water sourced from carefully selected springs in Maine",
+    "price": 6.49,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/poland-spring-24pk.jpg",
+    "category": "Water & Beverages"
+  },
+  {
+    "code": "NEST-059",
+    "name": "Nestle Splash Wild Berry Flavored Water 500ml (Pack of 6)",
+    "description": "Zero-calorie wild berry flavored water for everyday hydration",
+    "price": 3.99,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/splash-wildberry.jpg",
+    "category": "Water & Beverages"
+  },
+  {
+    "code": "NEST-060",
+    "name": "Gerber 1st Foods Banana Baby Food 2pk",
+    "description": "Single-ingredient pureed banana for babies starting solids",
+    "price": 2.49,
+    "currency": "USD",
+    "stock": 600,
+    "imageUrl": "https://nestle.com/images/gerber-banana.jpg",
+    "category": "Baby Food & Nutrition"
+  },
+  {
+    "code": "NEST-061",
+    "name": "Gerber 2nd Foods Apple Strawberry Banana 2pk",
+    "description": "Smooth blended fruit puree for growing babies",
+    "price": 2.79,
+    "currency": "USD",
+    "stock": 500,
+    "imageUrl": "https://nestle.com/images/gerber-apple-straw.jpg",
+    "category": "Baby Food & Nutrition"
+  },
+  {
+    "code": "NEST-062",
+    "name": "Gerber Puffs Strawberry Apple Cereal Snack 42g",
+    "description": "Melt-in-mouth puffed grain snack for crawlers and toddlers",
+    "price": 3.29,
+    "currency": "USD",
+    "stock": 450,
+    "imageUrl": "https://nestle.com/images/gerber-puffs.jpg",
+    "category": "Baby Food & Nutrition"
+  },
+  {
+    "code": "NEST-063",
+    "name": "Gerber Good Start GentlePro Infant Formula 567g",
+    "description": "Easy-to-digest infant formula with comfort proteins and HMO",
+    "price": 29.99,
+    "currency": "USD",
+    "stock": 200,
+    "imageUrl": "https://nestle.com/images/gerber-gentlepro.jpg",
+    "category": "Baby Food & Nutrition"
+  },
+  {
+    "code": "NEST-064",
+    "name": "Gerber Organic Teethers Mango Banana Carrot 48g",
+    "description": "Organic wafers that dissolve easily for teething babies",
+    "price": 3.99,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/gerber-teethers.jpg",
+    "category": "Baby Food & Nutrition"
+  },
+  {
+    "code": "NEST-065",
+    "name": "Gerber Lil' Crunchies Veggie Dip 42g",
+    "description": "Baked corn snack with real vegetables for toddlers",
+    "price": 3.49,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/gerber-crunchies.jpg",
+    "category": "Baby Food & Nutrition"
+  },
+  {
+    "code": "NEST-066",
+    "name": "NAN Optipro Stage 1 Infant Formula 800g",
+    "description": "Premium infant formula with optimized protein blend for newborns",
+    "price": 34.99,
+    "currency": "USD",
+    "stock": 150,
+    "imageUrl": "https://nestle.com/images/nan-optipro-1.jpg",
+    "category": "Baby Food & Nutrition"
+  },
+  {
+    "code": "NEST-067",
+    "name": "Cerelac Wheat with Milk Baby Cereal 400g",
+    "description": "Iron-fortified wheat cereal for babies 6 months and older",
+    "price": 6.99,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/cerelac-wheat.jpg",
+    "category": "Baby Food & Nutrition"
+  },
+  {
+    "code": "NEST-068",
+    "name": "Nestle Fitness Whole Grain Cereal 375g",
+    "description": "Crunchy whole grain wheat and oat flakes with vitamins and minerals",
+    "price": 4.99,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/fitness-cereal.jpg",
+    "category": "Breakfast Cereals"
+  },
+  {
+    "code": "NEST-069",
+    "name": "Cheerios Original 340g",
+    "description": "Toasted whole grain oat cereal, heart-healthy and low in sugar",
+    "price": 4.49,
+    "currency": "USD",
+    "stock": 500,
+    "imageUrl": "https://nestle.com/images/cheerios-original.jpg",
+    "category": "Breakfast Cereals"
+  },
+  {
+    "code": "NEST-070",
+    "name": "Cheerios Honey Nut 306g",
+    "description": "Sweetened whole grain oat cereal with honey and almond flavor",
+    "price": 4.79,
+    "currency": "USD",
+    "stock": 450,
+    "imageUrl": "https://nestle.com/images/cheerios-honey.jpg",
+    "category": "Breakfast Cereals"
+  },
+  {
+    "code": "NEST-071",
+    "name": "Nestle Cookie Crisp Cereal 318g",
+    "description": "Chocolatey chip cookie-shaped cereal that kids love",
+    "price": 4.49,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/cookie-crisp.jpg",
+    "category": "Breakfast Cereals"
+  },
+  {
+    "code": "NEST-072",
+    "name": "Nestle Cini Minis Cereal 375g",
+    "description": "Cinnamon-flavored whole grain squares for a tasty breakfast",
+    "price": 4.69,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/cini-minis.jpg",
+    "category": "Breakfast Cereals"
+  },
+  {
+    "code": "NEST-073",
+    "name": "Nestle Milo Cereal 330g",
+    "description": "Crunchy chocolate and malt flavored cereal with whole grains",
+    "price": 5.29,
+    "currency": "USD",
+    "stock": 300,
+    "imageUrl": "https://nestle.com/images/milo-cereal.jpg",
+    "category": "Breakfast Cereals"
+  },
+  {
+    "code": "NEST-074",
+    "name": "Nestle Nesquik Chocolate Cereal 375g",
+    "description": "Whole grain cereal with real Nesquik chocolate flavor",
+    "price": 4.99,
+    "currency": "USD",
+    "stock": 380,
+    "imageUrl": "https://nestle.com/images/nesquik-cereal.jpg",
+    "category": "Breakfast Cereals"
+  },
+  {
+    "code": "NEST-075",
+    "name": "Purina Pro Plan Adult Dog Food Chicken 15.8kg",
+    "description": "High-protein adult dog food with real chicken as the first ingredient",
+    "price": 49.99,
+    "currency": "USD",
+    "stock": 100,
+    "imageUrl": "https://nestle.com/images/proplan-dog-chicken.jpg",
+    "category": "Pet Care"
+  },
+  {
+    "code": "NEST-076",
+    "name": "Purina Pro Plan Adult Cat Food Salmon 7.26kg",
+    "description": "Premium cat food with real salmon and rice for adult cats",
+    "price": 39.99,
+    "currency": "USD",
+    "stock": 120,
+    "imageUrl": "https://nestle.com/images/proplan-cat-salmon.jpg",
+    "category": "Pet Care"
+  },
+  {
+    "code": "NEST-077",
+    "name": "Purina ONE SmartBlend Dog Food Lamb & Rice 7.48kg",
+    "description": "Natural dog food with tender lamb and wholesome rice",
+    "price": 24.99,
+    "currency": "USD",
+    "stock": 150,
+    "imageUrl": "https://nestle.com/images/purina-one-lamb.jpg",
+    "category": "Pet Care"
+  },
+  {
+    "code": "NEST-078",
+    "name": "Fancy Feast Classic Pate Variety Pack Cat Food 24pk",
+    "description": "Gourmet wet cat food variety pack with poultry and seafood flavors",
+    "price": 19.99,
+    "currency": "USD",
+    "stock": 200,
+    "imageUrl": "https://nestle.com/images/fancy-feast-24pk.jpg",
+    "category": "Pet Care"
+  },
+  {
+    "code": "NEST-079",
+    "name": "Friskies Party Mix Cat Treats Original 170g",
+    "description": "Crunchy cat treats in chicken, liver, and turkey flavors",
+    "price": 3.99,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/friskies-partymix.jpg",
+    "category": "Pet Care"
+  },
+  {
+    "code": "NEST-080",
+    "name": "Purina Beneful Originals Dog Food Beef 14.1kg",
+    "description": "Wholesome dog food with real beef, vegetables, and whole grains",
+    "price": 29.99,
+    "currency": "USD",
+    "stock": 130,
+    "imageUrl": "https://nestle.com/images/beneful-beef.jpg",
+    "category": "Pet Care"
+  },
+  {
+    "code": "NEST-081",
+    "name": "Purina Dog Chow Complete Adult Chicken 18.1kg",
+    "description": "Complete and balanced dog food with real chicken and whole grains",
+    "price": 22.99,
+    "currency": "USD",
+    "stock": 140,
+    "imageUrl": "https://nestle.com/images/dog-chow-chicken.jpg",
+    "category": "Pet Care"
+  },
+  {
+    "code": "NEST-082",
+    "name": "Tidy Cats Clumping Cat Litter 24/7 Performance 6.35kg",
+    "description": "Multi-cat clumping litter with powerful odor control",
+    "price": 12.99,
+    "currency": "USD",
+    "stock": 250,
+    "imageUrl": "https://nestle.com/images/tidy-cats-clumping.jpg",
+    "category": "Pet Care"
+  },
+  {
+    "code": "NEST-083",
+    "name": "Boost Original Nutritional Drink Chocolate 6pk",
+    "description": "Complete nutritional drink with 26 vitamins, minerals, and 10g protein",
+    "price": 9.99,
+    "currency": "USD",
+    "stock": 300,
+    "imageUrl": "https://nestle.com/images/boost-chocolate.jpg",
+    "category": "Health & Nutrition"
+  },
+  {
+    "code": "NEST-084",
+    "name": "Boost High Protein Vanilla 6pk",
+    "description": "High-protein nutritional drink with 20g protein per serving",
+    "price": 10.99,
+    "currency": "USD",
+    "stock": 280,
+    "imageUrl": "https://nestle.com/images/boost-highprotein.jpg",
+    "category": "Health & Nutrition"
+  },
+  {
+    "code": "NEST-085",
+    "name": "Nestle Resource ThickenUp Clear 125g",
+    "description": "Food and beverage thickener for individuals with swallowing difficulties",
+    "price": 12.99,
+    "currency": "USD",
+    "stock": 200,
+    "imageUrl": "https://nestle.com/images/thickenup-clear.jpg",
+    "category": "Health & Nutrition"
+  },
+  {
+    "code": "NEST-086",
+    "name": "Optifast VLCD Shake Chocolate 12pk",
+    "description": "Clinically proven meal replacement shake for weight management",
+    "price": 44.99,
+    "currency": "USD",
+    "stock": 150,
+    "imageUrl": "https://nestle.com/images/optifast-choc.jpg",
+    "category": "Health & Nutrition"
+  },
+  {
+    "code": "NEST-087",
+    "name": "Nestle Peptamen 1.5 Complete Nutrition 250ml (Pack of 24)",
+    "description": "Peptide-based nutrition for patients with impaired GI function",
+    "price": 89.99,
+    "currency": "USD",
+    "stock": 80,
+    "imageUrl": "https://nestle.com/images/peptamen-24pk.jpg",
+    "category": "Health & Nutrition"
+  },
+  {
+    "code": "NEST-088",
+    "name": "Garden of Life Raw Organic Protein Vanilla 620g",
+    "description": "Organic plant-based protein powder with probiotics and enzymes",
+    "price": 34.99,
+    "currency": "USD",
+    "stock": 200,
+    "imageUrl": "https://nestle.com/images/garden-life-vanilla.jpg",
+    "category": "Health & Nutrition"
+  },
+  {
+    "code": "NEST-089",
+    "name": "Vital Proteins Collagen Peptides 284g",
+    "description": "Grass-fed collagen peptides for skin, hair, nails, and joint support",
+    "price": 27.99,
+    "currency": "USD",
+    "stock": 250,
+    "imageUrl": "https://nestle.com/images/vital-proteins-collagen.jpg",
+    "category": "Health & Nutrition"
+  },
+  {
+    "code": "NEST-090",
+    "name": "Nescafe Iced Latte Caramel Ready-to-Drink 240ml (Pack of 6)",
+    "description": "Chilled caramel-flavored latte in a convenient grab-and-go can",
+    "price": 8.99,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/nescafe-iced-caramel.jpg",
+    "category": "Coffee"
+  },
+  {
+    "code": "NEST-091",
+    "name": "Nescafe Iced Latte Mocha Ready-to-Drink 240ml (Pack of 6)",
+    "description": "Rich mocha-flavored iced coffee in convenient cans",
+    "price": 8.99,
+    "currency": "USD",
+    "stock": 300,
+    "imageUrl": "https://nestle.com/images/nescafe-iced-mocha.jpg",
+    "category": "Coffee"
+  },
+  {
+    "code": "NEST-092",
+    "name": "Starbucks by Nespresso Pike Place Roast 10pk",
+    "description": "Starbucks signature medium roast capsules for Nespresso machines",
+    "price": 8.49,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/starbucks-pike-nespresso.jpg",
+    "category": "Coffee"
+  },
+  {
+    "code": "NEST-093",
+    "name": "Starbucks by Nespresso House Blend Lungo 10pk",
+    "description": "Medium roast lungo capsules with rich, caramel sweetness",
+    "price": 8.49,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/starbucks-lungo.jpg",
+    "category": "Coffee"
+  },
+  {
+    "code": "NEST-094",
+    "name": "Buitoni Fresh Refrigerated Fettuccine 255g",
+    "description": "Freshly made fettuccine pasta ready to cook in just 3 minutes",
+    "price": 3.99,
+    "currency": "USD",
+    "stock": 300,
+    "imageUrl": "https://nestle.com/images/buitoni-fettuccine.jpg",
+    "category": "Noodles & Cooking"
+  },
+  {
+    "code": "NEST-095",
+    "name": "Buitoni Four Cheese Ravioli 255g",
+    "description": "Refrigerated ravioli filled with ricotta, parmesan, romano, and mozzarella",
+    "price": 4.49,
+    "currency": "USD",
+    "stock": 280,
+    "imageUrl": "https://nestle.com/images/buitoni-ravioli.jpg",
+    "category": "Noodles & Cooking"
+  },
+  {
+    "code": "NEST-096",
+    "name": "Buitoni Pesto with Basil Sauce 198g",
+    "description": "Authentic Italian pesto made with fresh basil and parmesan cheese",
+    "price": 4.99,
+    "currency": "USD",
+    "stock": 250,
+    "imageUrl": "https://nestle.com/images/buitoni-pesto.jpg",
+    "category": "Noodles & Cooking"
+  },
+  {
+    "code": "NEST-097",
+    "name": "Wonka Nerds Gummy Clusters 142g",
+    "description": "Tangy crunchy Nerds candy shell around a gummy center",
+    "price": 4.29,
+    "currency": "USD",
+    "stock": 500,
+    "imageUrl": "https://nestle.com/images/nerds-clusters.jpg",
+    "category": "Chocolate & Confectionery"
+  },
+  {
+    "code": "NEST-098",
+    "name": "Wonka SweeTarts Ropes Cherry Punch 141g",
+    "description": "Soft and chewy candy ropes with tangy cherry punch filling",
+    "price": 3.49,
+    "currency": "USD",
+    "stock": 400,
+    "imageUrl": "https://nestle.com/images/sweetarts-ropes.jpg",
+    "category": "Chocolate & Confectionery"
+  },
+  {
+    "code": "NEST-099",
+    "name": "Nestle Abuelita Mexican Hot Chocolate Tablets 540g",
+    "description": "Traditional Mexican chocolate tablets with cinnamon for hot cocoa",
+    "price": 5.99,
+    "currency": "USD",
+    "stock": 350,
+    "imageUrl": "https://nestle.com/images/abuelita-tablets.jpg",
+    "category": "Beverages"
+  },
+  {
+    "code": "NEST-100",
+    "name": "Nestle La Laitiere Creme Brulee 4pk",
+    "description": "Authentic French-style creme brulee dessert with caramelized sugar",
+    "price": 6.49,
+    "currency": "USD",
+    "stock": 200,
+    "imageUrl": "https://nestle.com/images/la-laitiere-brulee.jpg",
+    "category": "Dairy & Creamers"
+  }
+]

@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+ucp:
+  merchant:
+    name: "Nestle Online Store"
+    id: "nestle-store"
+    base-url: "http://localhost:8080"
+    version: "2026-01-11"
+  sap:
+    occ-base-url: "https://sap-commerce.example.com/occ/v2/nestle"
+    site-id: "nestle"
